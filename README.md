@@ -12,3 +12,4 @@ add my f3
 
 add f5
 add a new commit to rebase branch
+add new 2 to rebase
